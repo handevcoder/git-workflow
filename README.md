@@ -13,3 +13,7 @@
 - Phone             : +81335102152
 - Email             : iwansyy@gmail.com
 - Telegram          : @hanifiwansyahx
+
+## Favorite Color
+-red
+
