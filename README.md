@@ -8,6 +8,7 @@
 ## Education
 - 2018-2020         : Universitas Amikom Yogyakarta (Informations System)
 - 2015-2018         : Universitas Amikom Yogyakarta (Informatics Management)
+- 2013-2018         : smk negeri pacitan
 
 ## Contact person
 - Phone             : +81335102152
